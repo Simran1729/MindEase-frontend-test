@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { FaCircleArrowUp } from "react-icons/fa6";
-import ChatBubble from './chatBubble';
+import ChatBubble from "./ChatBubble"
 import axios from 'axios';
 import Loading from "../components/Loading"
 import uuid from 'uuid4'
