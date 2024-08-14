@@ -1,4 +1,4 @@
-import Conversation from "./components/conversation"
+import Conversation from "./components/Conversation"
 import Footer from "./components/footer"
 import Header from "./components/header"
 
